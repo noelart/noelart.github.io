@@ -1,7 +1,7 @@
 /* Stylesheets*/
 
 body {
-	font-family: 'Open Sans', helvetica, sans-serif;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1em;
 	line-height: 1.6em;
 	color: #EFF1C2;
@@ -35,7 +35,7 @@ body {
 }
 
 .masthead-intro {
-	font-family: 'PT-Serif', serif;
+	font-family: 'PT-Serif', Georgia, serif;
 	margin-bottom: 1em;
 	font-size: 3em;
 	color: #2E313D;
@@ -117,13 +117,13 @@ h1, h2, h4 {
 }
 
 h1 {
-	font-family: 'PT-Serif', serif;
+	font-family: 'PT-Serif', Georgia, serif;
 	font-size: 6em;
 	color: #FFF;
 }
 
 h2 {
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Cabin', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1.8em;
 	margin-bottom: 15px;
 }
