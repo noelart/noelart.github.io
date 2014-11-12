@@ -87,9 +87,10 @@ ul.sites li a:hover {
 	padding-right: 1%;
 }
 
-.copy-right {
+/* .copy:last-child */
+.copy:nth-child(2) {
 	width: 49%;
-	padding-left: 1%;
+	padding: 0 0 0 1%;
 	float: left;
 }
 
